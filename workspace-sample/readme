@@ -1,0 +1,4 @@
+Run: terraform workspace select us-payroll; terraform apply <br>
+then terraform workspace select uk-payroll; terraform apply<br>
+and finally terraform workspace select india-payroll; terraform apply <br>
+now we're using single configuration to dpeloy multiple resources
