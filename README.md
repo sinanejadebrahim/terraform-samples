@@ -1,2 +1,2 @@
 # terraform-samples
-terraform samples ...
+
