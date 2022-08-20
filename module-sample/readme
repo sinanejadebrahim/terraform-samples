@@ -1,3 +1,3 @@
-go to ec2 or s3 DIR<br>
-change main file based on your needs <br>
+go to ec2 or s3 DIR
+change main file based on your needs 
 run terraform init - apply.
