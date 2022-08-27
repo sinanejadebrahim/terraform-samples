@@ -3,3 +3,5 @@ I've divided all files to make it easier to understand - you can put all of them
 you'll work with docker images - building them and creating containers from them - using networks and volumes.
 the site which is supposed to be shown may not be showing OK, cause i couldn't clone it completely - but it doesn't matter - the important thing is you being able to do terraform apply and have 3 containers running at the end.
 there is also an image which shows a simple map of what we're doing.
+
+<img src="map.jpg">
