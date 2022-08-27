@@ -1,2 +1,0 @@
-a simple terraform code which creates a deployment and a service attached to it.
-we're also using kodekloud's webapp which is a simple color app,good for tests.
